@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDbApp</string>
+    <string name="title">Title</string>
+    <string name="tv_show">Tv Shows</string>
+    <string name="episodes">Episodes</string>
+    <string name="recently_add">Upcoming</string>
+</resources>
